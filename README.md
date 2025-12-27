@@ -1,4 +1,4 @@
-<img width="622" height="25" alt="image" src="https://github.com/user-attachments/assets/7d1a0def-e07f-4496-91c2-0529c0c1c10d" /># Amazon_Sales_Analysis
+
 
 1) AMAZON SALES ANALYSIS-
 
@@ -80,7 +80,7 @@ Amazon Sales Analysis focuses on studying sales data to understand product perfo
 
 5)  DASHBOARD IMAGE -
 
-   ![Dashboard_preview].(https://github.com/rupaliverma2825-wq/Amazon_Sales_Analysis/blob/main/AMAZON.png)
+   ![Dashboard_preview](https://github.com/rupaliverma2825-wq/Amazon_Sales_Analysis/blob/main/AMAZON.png)
 
 
 

@@ -2,7 +2,7 @@
 
 1) AMAZON SALES ANALYSIS-
 
-Amazon Sales Analysis focuses on studying sales data to understand product performance, revenue trends, and customer buying patterns. The project analyzes key metrics such as sales, categories, discounts, and     time-based trends to identify top-performing products and insights for better business decisions.
+    Amazon Sales Analysis focuses on studying sales data to understand product performance, revenue trends, and customer buying patterns. The project analyzes key metrics such as sales, categories, discounts,        and time-based trends to identify top-performing products and insights for better business decisions.
 
 2) TECH STAK-
 
@@ -19,6 +19,7 @@ Amazon Sales Analysis focuses on studying sales data to understand product perfo
   ⚪ 📊 Power BI – Developed interactive dashboards and visual reports to highlight key business metrics.
   
   ⚪ 💻 DAX (Data Analysis Expressions) – Utilized in Power BI to create calculated metrics and perform advanced analytics.
+  
 
 3) FEATURS / HIGHLIGHTS -
 

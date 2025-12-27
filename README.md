@@ -4,7 +4,7 @@
 
     Amazon Sales Analysis focuses on studying sales data to understand product performance, revenue trends, and customer buying patterns. The project analyzes key metrics such as sales, categories, discounts,        and time-based trends to identify top-performing products and insights for better business decisions.
 
-2) TECH STAK-
+2) TECH STACK-
 
   The projet was built using the following tools and technologies:
 

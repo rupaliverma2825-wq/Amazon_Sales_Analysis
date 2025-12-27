@@ -1,5 +1,6 @@
 <img width="622" height="25" alt="image" src="https://github.com/user-attachments/assets/7d1a0def-e07f-4496-91c2-0529c0c1c10d" /># Amazon_Sales_Analysis
-1)  AMAZON SALES ANALYSIS-
+
+1) AMAZON SALES ANALYSIS-
 
 Amazon Sales Analysis focuses on studying sales data to understand product performance, revenue trends, and customer buying patterns. The project analyzes key metrics such as sales, categories, discounts, and     time-based trends to identify top-performing products and insights for better business decisions.
 
@@ -51,18 +52,31 @@ Amazon Sales Analysis focuses on studying sales data to understand product perfo
 4) BUSINESS INSIGHTS-
 
    ✅ Electronics is the top-performing category, contributing 16.97% to total sales.
+   
    ✅ The United States is the top-selling country, accounting for 70% of total sales.
+   
    ✅ The Electronics category is the top-performing category and has the highest total discount provided.
+   
    ✅ Electronics is the top category in terms of total tax paid i.e ₹3,510,610.
+   
    ✅ Puzzle 1000pc has the highest unit price of ₹3,534.98.
+   
    ✅ Credit Card is the most preferred payment method by customers, with total transactions amounting to ₹96,366,476.07.
-   ✅ A total of 223,884 orders were delivered, indicating strong fulfillment performance,
+   
+   ✅ A total of 223,884 orders were delivered, indicating strong fulfillment performance.
+   
    ✅ Approximately 74.46% of orders were delivered, 15.34% were shipped, 4.07% were pending, 3.10% were cancelled, and 3.03% were returned, indicating strong overall fulfillment performance.
+   
    ✅ CoreTech is the top-performing brand, generating total sales of ₹28,031,161.77.
+   
    ✅ Puzzle 1000pc emerged as the top-performing product in 2023, generate total sales of ₹1,262,004.90
-   ✅ Customers such as Aditya Gupta, Aarav Mehta, Aditya Kapoor, Aman Kumar, and Arjun Patel placed more than 2 orders each in 2024, indicating high repeat purchase activity.	
+   
+   ✅ Customers such as Aditya Gupta, Aarav Mehta, Aditya Kapoor, Aman Kumar, and Arjun Patel placed more than 2 orders each in 2024, indicating high repeat purchase activity.
+   
    ✅ Electronics is the top-performing category, generating total sales of ₹46,752,651.54.
+   
    ✅ The United States is the top-selling country, generating total sales of ₹192,930,145.50
+   
 
 
 

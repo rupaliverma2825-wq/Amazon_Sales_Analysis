@@ -78,7 +78,9 @@ Amazon Sales Analysis focuses on studying sales data to understand product perfo
    ✅ The United States is the top-selling country, generating total sales of ₹192,930,145.50
    
 
+5)  DASHBOARD IMAGE -
 
+   ![Dashboard_preview].(https://github.com/rupaliverma2825-wq/Amazon_Sales_Analysis/blob/main/AMAZON.png)
 
 
 
